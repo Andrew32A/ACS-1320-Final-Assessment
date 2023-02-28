@@ -1,8 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.MetalMeta-wrapper {
+.Band-wrapper {
     display: flex;
     justify-content: center;
     border: 1px solid black;
@@ -11,7 +7,7 @@
     color: #c7c1c3;
 }
 
-.MetalMeta-wrapper > * {
+.Band-wrapper > * {
     display: flex;
     flex-direction: column;
     justify-content: center;

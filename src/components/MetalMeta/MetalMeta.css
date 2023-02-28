@@ -1,3 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.total {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: #333431;
+    color: #c7c1c3;
+
+}

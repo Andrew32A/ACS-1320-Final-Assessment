@@ -12,7 +12,7 @@ function BandList() {
             <Band
             id={id}
             key={`${band_name}-${id}`}
-            name={band_name}
+            band_name={band_name}
             formed={formed}
             origin={origin}
             fans={fans}
