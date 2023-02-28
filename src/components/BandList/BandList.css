@@ -25,6 +25,7 @@
 	flex: 1;
 	border-top-left-radius: 0.5em;
 	border-bottom-left-radius: 0.5em;
+    background-color: #333431;
 }
 
 .formWrapper form button {

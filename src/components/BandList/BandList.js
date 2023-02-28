@@ -6,7 +6,7 @@ import { useState } from 'react'
 function BandList() {
     const [query, setQuery] = useState('')
     const bands = data
-    .filter(obj => obj.band_name.toLowerCase().includes(query.toLowerCase()))
+    .filter(obj => obj.band_name.toLowerCase().includes(query.toLowerCase()) || obj.origin.toLowerCase().includes(query.toLowerCase()))
     .map(({ id, band_name, formed, origin, fans }) => {
         return (
             <Band
