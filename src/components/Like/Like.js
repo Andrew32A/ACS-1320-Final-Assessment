@@ -5,7 +5,6 @@ function Like() {
     const [like_count, setCount] = useState(0)
    
      return (
-
         <div className="Counter">
             <button 
                 onClick={() => { 
@@ -19,7 +18,6 @@ function Like() {
                 }}
             >👍</button>
         </div>
-
     );
 }
 
