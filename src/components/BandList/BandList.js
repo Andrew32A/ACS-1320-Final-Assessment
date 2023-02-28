@@ -1,5 +1,6 @@
 import Band from "../Band/Band";
 import data from "../../metal.json"
+import "./BandList.css"
 import { useState } from 'react'
 
 function BandList() {
@@ -20,7 +21,7 @@ function BandList() {
     })
 
     return (
-        <div>
+        <div className="BandsList-wrapper">
             <div className="formWrapper">
                 <form>
                     <input

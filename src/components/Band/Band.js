@@ -1,4 +1,5 @@
 import Like from "../Like/Like";
+import "./Band.css"
 
 function Band(props) {
     const { band_name, formed, origin, fans } = props
