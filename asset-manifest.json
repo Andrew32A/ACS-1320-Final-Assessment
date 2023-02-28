@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ACS-1320-Final-Assessment%20/static/css/main.6419ccc9.css",
-    "main.js": "/ACS-1320-Final-Assessment%20/static/js/main.ba368d1d.js",
-    "static/js/787.2a63a3d5.chunk.js": "/ACS-1320-Final-Assessment%20/static/js/787.2a63a3d5.chunk.js",
-    "index.html": "/ACS-1320-Final-Assessment%20/index.html",
-    "main.6419ccc9.css.map": "/ACS-1320-Final-Assessment%20/static/css/main.6419ccc9.css.map",
-    "main.ba368d1d.js.map": "/ACS-1320-Final-Assessment%20/static/js/main.ba368d1d.js.map",
-    "787.2a63a3d5.chunk.js.map": "/ACS-1320-Final-Assessment%20/static/js/787.2a63a3d5.chunk.js.map"
+    "main.css": "/ACS-1320-Final-Assessment/static/css/main.6419ccc9.css",
+    "main.js": "/ACS-1320-Final-Assessment/static/js/main.3ae4e75d.js",
+    "static/js/787.2a63a3d5.chunk.js": "/ACS-1320-Final-Assessment/static/js/787.2a63a3d5.chunk.js",
+    "index.html": "/ACS-1320-Final-Assessment/index.html",
+    "main.6419ccc9.css.map": "/ACS-1320-Final-Assessment/static/css/main.6419ccc9.css.map",
+    "main.3ae4e75d.js.map": "/ACS-1320-Final-Assessment/static/js/main.3ae4e75d.js.map",
+    "787.2a63a3d5.chunk.js.map": "/ACS-1320-Final-Assessment/static/js/787.2a63a3d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6419ccc9.css",
-    "static/js/main.ba368d1d.js"
+    "static/js/main.3ae4e75d.js"
   ]
 }
